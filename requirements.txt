@@ -1,0 +1,20 @@
+natsort==8.4.0
+numpy==2.4.2
+matplotlib==3.10.8
+simpleitk==2.5.3
+scikit-image==0.26.0
+scipy==1.17.0
+torch==2.10.0
+torchinfo==1.8.0
+scikit-learn==1.8.0
+timm==1.0.24
+pandas==3.0.0
+openpyxl==3.1.5
+opencv-python==4.13.0.92
+transformers==5.1.0
+einops==0.8.2
+einops-exts==0.0.4
+spams-bin==2.6.13
+slideloader @ git+https://github.com/RTLucassen/slideloader@611e5e4736a16456e0fc5e911d7cda5e751714a2
+slidesegmenter @ git+https://github.com/RTLucassen/slidesegmenter@9d9d690913d6e8520a24d678f54decccd59dce9e
+annotation_tool @ git+https://github.com/RTLucassen/annotation_tool@7c542b17a0943c71224eed331370284d9683a1a5
